@@ -1,0 +1,24 @@
+{
+  "kind": "collectionType",
+  "collectionName": "homepage_modules",
+  "info": {
+    "name": "homepage-module"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "module": {
+      "type": "string"
+    },
+    "position": {
+      "type": "integer"
+    },
+    "active": {
+      "type": "boolean",
+      "default": true
+    }
+  }
+}

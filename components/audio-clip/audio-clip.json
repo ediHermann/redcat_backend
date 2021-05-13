@@ -1,0 +1,44 @@
+{
+  "collectionName": "components_audio_clip_audio_clips",
+  "info": {
+    "name": "audio-clip",
+    "icon": "atlas",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "subtitle": {
+      "type": "string"
+    },
+    "clip": {
+      "model": "file",
+      "via": "related",
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos"
+      ],
+      "plugin": "upload",
+      "required": false
+    },
+    "language": {
+      "type": "enumeration",
+      "enum": [
+        "German",
+        "English",
+        "Russian",
+        "Romaninan"
+      ]
+    },
+    "gender": {
+      "type": "enumeration",
+      "enum": [
+        "female",
+        "male"
+      ]
+    }
+  }
+}

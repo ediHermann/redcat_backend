@@ -1,0 +1,32 @@
+{
+  "kind": "collectionType",
+  "collectionName": "catalogues",
+  "info": {
+    "name": "Catalogue"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "subtitle": {
+      "type": "string"
+    },
+    "language": {
+      "type": "string"
+    },
+    "age": {
+      "type": "string"
+    },
+    "gender": {
+      "type": "string"
+    },
+    "keywords": {
+      "type": "json"
+    }
+  }
+}

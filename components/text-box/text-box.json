@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_text_box_text_boxes",
+  "info": {
+    "name": "textBox",
+    "icon": "ad"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "body": {
+      "type": "richtext"
+    }
+  }
+}
