@@ -20,7 +20,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bc29d141-902a-4e88-acc4-4906a78d4433" name="Default Changelist" comment="zz">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Default_Changelist]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Default_Changelist_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.strapi-updater.json" beforeDir="false" afterPath="$PROJECT_DIR$/.strapi-updater.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/about/models/about.js" beforeDir="false" afterPath="$PROJECT_DIR$/api/about/models/about.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/catalogue/models/catalogue.js" beforeDir="false" afterPath="$PROJECT_DIR$/api/catalogue/models/catalogue.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/client/models/client.js" beforeDir="false" afterPath="$PROJECT_DIR$/api/client/models/client.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/testimonial/models/testimonial.js" beforeDir="false" afterPath="$PROJECT_DIR$/api/testimonial/models/testimonial.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/config/server.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +58,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../redcat" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -121,6 +129,8 @@
       <workItem from="1620918664351" duration="28000" />
       <workItem from="1620919194842" duration="284000" />
       <workItem from="1620920558573" duration="7159000" />
+      <workItem from="1620990016301" duration="482000" />
+      <workItem from="1623993818935" duration="4250000" />
     </task>
     <task id="LOCAL-00001" summary="zz">
       <created>1620917826269</created>

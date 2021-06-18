@@ -6,4 +6,6 @@ module.exports = ({ env }) => ({
       secret: env('ADMIN_JWT_SECRET', 'b19f8847a6327e59481f2c3a08a0958c'),
     },
   },
+  jsonpath:env('JSON_PATH','../redcat/packages/web-static-spa/src/sections/'),
+  frontend:env('JSON_PATH','../redcat')
 });
